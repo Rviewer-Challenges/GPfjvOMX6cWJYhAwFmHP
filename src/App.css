@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Comix Loud";
+  src: url("./assets/fonts/Comix\ Loud.ttf") format("truetype");
+}
+
+:root {
+  --main-color: #8abfd7;
+  --secondary-color: #ec7c30;
+}
